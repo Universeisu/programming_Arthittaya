@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+*{
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    color: rgb(231, 220, 220);
+    text-align: center;
+    padding: 20px;
+    min-width: 350;
+    border: solid 6px pink;
+    border-bottom-style: dotted;
+    border-top-style: dashed;
+    border-left-style: solid;
+    border-bottom-width: 2px;
+    border-top-width: 5px;
+    border-left-color: transparent;
+    
+}
+.happy {
+    margin: 5px;
+    font-size: 2em;
+    background-color: transparent;
+    text-align:center;
+
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border: solid 3px rgb(123, 156, 216);
+}
+#love {
+    text-decoration-line: underline;
+    background-color: rgb(75, 138, 117);
+    color: rgb(240, 245, 250);
+}
+
+span{
+    color: rgb(228, 234, 240);
+    background-color: burlywood;
+}
+#GoodMorningonMonday {
+    background-color: rgb(231, 151, 46);
+    color: aliceblue;
+}
+body{
+    background-image: url('https://images.unsplash.com/photo-1520854221256-17451cc331bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+    background-size: cover;
+}
+a:link{
+    color: pink;
+    text-decoration: overline;
+}
+a:visited {
+    color: burlywood;
+    font-style: italic;
+}
+a:hover {
+    color: blueviolet;
+    font-size: x-large;
+
+}
+a:active{
+    font-weight: bolder;
+    color: cadetblue;
+}

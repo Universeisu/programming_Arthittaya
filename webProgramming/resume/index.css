@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+*{
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    color: rgb(88, 76, 76);
+    text-align: center;
+    padding: 50px;
+    min-width: 350;
+    
+    
+    
+}
+.happy {
+    margin: 5px;
+    font-size: 2em;
+    background-color: transparent;
+    text-align:center;
+}
+    
+#love {
+    text-decoration-line: underline;
+    background-color: rgb(75, 138, 117);
+    color: rgb(240, 245, 250);
+}
+
+span{
+    color: rgb(228, 234, 240);
+    background-color: burlywood;
+}
+#GoodMorningonMonday {
+    background-color: rgb(231, 151, 46);
+    color: aliceblue;
+}
+body{
+    background-image: url('https://images.unsplash.com/photo-1533055158271-3ad0bebac927?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80');
+    background-size: cover;
+}
+a:link{
+    color: pink;
+    text-decoration: overline;
+}
+a:visited {
+    color: burlywood;
+    font-style: italic;
+}
+a:hover {
+    color: blueviolet;
+    font-size: x-large;
+
+}
+a:active{
+    font-weight: bolder;
+    color: cadetblue;
+}
+img{
+    width: 700px;
+    height: 500px;
+    border-radius: 100%;
+    border: 1px solid;
+}
